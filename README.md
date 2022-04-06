@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there
+
+I am a computer engineering student interested in 
+problem solving and competitive programming. 
+I have experience working as part of a team and 
+individually.
+
 
 <!--
 **SaadMu7ammad/SaadMu7ammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
