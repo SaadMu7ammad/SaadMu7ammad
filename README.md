@@ -4,6 +4,7 @@ I am a computer engineering student interested in
 problem solving and competitive programming. 
 I have experience working as part of a team and 
 individually.
+I’m currently learning computer science basics ( oop,algorithms,data structure )
 
 ## PROJECTS
 • Data analysis with supervised machine learning
@@ -33,7 +34,7 @@ Intelligence program)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
