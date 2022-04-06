@@ -3,8 +3,8 @@
 I am a computer engineering student interested in 
 problem solving and competitive programming. 
 I have experience working as part of a team and 
-individually.
-I’m currently learning computer science basics ( oop,algorithms,data structure )
+individually.<br>
+I’m currently learning computer science basics ( oop,algorithms,data structures )
 
 ## PROJECTS
 • Data analysis with supervised machine learning
