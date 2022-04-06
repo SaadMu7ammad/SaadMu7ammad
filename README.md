@@ -5,17 +5,17 @@ problem solving and competitive programming.
 I have experience working as part of a team and 
 individually.
 
-##PROJECTS
+## PROJECTS
 • Data analysis with supervised machine learning
 • Mostafa Saad C++ course
 • Smart Garden
 
-##EXPERIENCE
+## EXPERIENCE
 • Samsung Innovation Campus (Artificial 
 Intelligence program)
 • Problem Solving Contests: Google Code Jam
 
-##SKILLS
+## SKILLS
 • Programming C#, C++, python
 • Problem Solving
 • OOP
