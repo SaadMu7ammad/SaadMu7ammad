@@ -1,4 +1,4 @@
-### Hi there
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&lines=Hi%2C+I+am+Saad+Muhammad+)](https://git.io/typing-svg)
 
 I am a computer engineering student interested in 
 problem solving and competitive programming. 
