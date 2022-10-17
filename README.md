@@ -17,7 +17,7 @@ I’m currently learning computer science basics ( oop,algorithms,data structure
 • Samsung Innovation Campus (Artificial 
 Intelligence program)
 
-• Problem Solving Contests: Google CodeJam, Google KickStart, CodeForfces
+• Problem Solving Contests: Google CodeJam, Google KickStart, Codeforces
 
 ## SKILLS
 • Programming C#, C++, python
