@@ -26,7 +26,7 @@ Intelligence program)
 
 • OOP
 
-• Data Structure
+• Data Structures
 
 • git
 
