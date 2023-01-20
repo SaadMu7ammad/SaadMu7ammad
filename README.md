@@ -4,8 +4,7 @@ I am a computer engineering student interested in
 problem solving and competitive programming. 
 I have experience working as part of a team and 
 individually.<br>
-I’m currently learning computer science basics ( oop,algorithms,data structures )
-
+I’m currently learning computer science basics(oop,algorithms,datastructures) & MERN Stack path
 ## PROJECTS
 • Data analysis with supervised machine learning
 
