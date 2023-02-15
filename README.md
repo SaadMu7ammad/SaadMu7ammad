@@ -6,7 +6,7 @@ I have experience working as part of a team and
 individually.<br>
 I’m currently learning computer science basics(oop,algorithms,datastructures) & MERN Stack path
 ## PROJECTS
-• Html & CSS pages
+• Html & CSS Templates
 
 • Data analysis with supervised machine learning
 
