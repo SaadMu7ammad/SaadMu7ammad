@@ -21,7 +21,7 @@ Intelligence program)
 • Problem Solving Contests: Google CodeJam, Google KickStart, Codeforces
 
 ## SKILLS
-• Programming C#, C++, python
+• Programming C#, C++, python, Javascript
 
 • Problem Solving
 
