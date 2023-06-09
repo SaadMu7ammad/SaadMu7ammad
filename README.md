@@ -8,6 +8,8 @@ I’m currently learning computer science basics(oop,algorithms,datastructures) 
 ## PROJECTS
 • Html & CSS Templates
 
+• JavaScript Projects
+
 • Data analysis with supervised machine learning
 
 • Mostafa Saad C++ course
